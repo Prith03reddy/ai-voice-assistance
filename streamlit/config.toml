@@ -1,0 +1,14 @@
+
+[server]
+headless = true
+port = 8501
+
+[theme]
+base="dark"
+primaryColor="#ff4b4b"
+backgroundColor="#000000"
+textColor="#ffffff"
+
+[logger]
+level="debug"
+
